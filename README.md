@@ -16,7 +16,6 @@
 
 ## 📌 Table of Contents
 
-- [collab link]( #-1) major_project.ipynb)
 - [Overview](#-overview)
 - [Why This Project Matters](#-why-this-project-matters)
 - [Dataset](#-dataset)
