@@ -14,6 +14,15 @@
 
 ---
 
+## Notebook
+
+Open the project notebook:
+
+[NOTEBOOK](./1_major_project.ipynb)
+
+
+---
+
 ## 📌 Table of Contents
 
 - [Overview](#-overview)
