@@ -453,11 +453,6 @@ Global mean `Happiness_Score` averaged across all countries per year — a singl
 > 🏆 **Key Insight:** Temporal features (`YoY_Change`, `RollMean_3`) engineered in Feature Engineering dominate all predictions — proving that *how happiness is changing* is more predictive than any static socio-economic indicator.
 
 ---
+## Author:-
 
-<p align="center">
-  ⭐ If you found this project useful, please consider giving it a star!
-</p>
-
-<p align="center">
-  Made with ❤️ and lots of ☕
-</p>
+Arnav heerakar
